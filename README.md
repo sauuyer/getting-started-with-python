@@ -1,5 +1,4 @@
-# This GitHub repo is a landing page for the Cushing/Whitney Medical Library Class:
-## Getting Started with Python: a non-programming introduction
+# This GitHub repo is a landing page for the Cushing/Whitney Medical Library Class: Getting Started with Python: a non-programming introduction
 
 Below, you will find a summary of resources mentioned during the presentation.
 
